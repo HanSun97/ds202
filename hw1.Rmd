@@ -1,0 +1,23 @@
+---
+title: "DS202 HW1"
+author: "HanSun, HanSun97"
+date: "2020.1.22"
+output: html_document
+---
+
+## A job related to data science
+**Data Science** is a description process that focuses on the collection and analysis of big data. It also includes inference processes that focus on probability and hypothesis testing. In the work of data science, we organize the data infrastructure or create analysis reports, and use intelligent machine learning algorithms to drive insights.
+<http://en.wikipedia.org/wiki/Data_science>
+![data_science](C:\Users\hansu\OneDrive\Desktop\ds202\ds202_hw1\timg.jpg)
+
+## version of R
+```{r}
+version
+```
+
+## version of Git
+git version 2.25.0.windows.1
+
+## Username
+HanSun97
+
